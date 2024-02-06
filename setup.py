@@ -12,7 +12,7 @@ setup(
     description='Python package for logging actions to Discord servers using webhooks.',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='URL na váš projekt',
+    url='https://github.com/Trnass/PyLogDc',
     packages=find_packages(),
     install_requires=[
         'requests',
