@@ -1,6 +1,5 @@
 # PyLogDc
 
-PyLogDc je Python balíček, který umožňuje logovat zprávy do Discord serveru pomocí webhooků s podporou barev.
 PyLogDc is Python package, you can log actions of your code / alert to your Discord server using webhook. 
 You can use color that you want (using HEX code) or use some of prepared colors.
 ## Prepared colors
