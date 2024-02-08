@@ -6,7 +6,7 @@ with open('README.md', 'r', encoding='utf-8') as fh:
 
 setup(
     name='pylogdc',
-    version='0.1.2',
+    version='0.1.3',
     author='Trnass',
     author_email='admin@trnass.cz',
     description='Python package for logging actions to Discord servers using webhooks.',
