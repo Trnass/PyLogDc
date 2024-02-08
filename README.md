@@ -17,7 +17,7 @@ pip install pylogdc
 
 ## Usage
 ```python
-from PyLogDc.logthis import log_this
+from pylogdc import log_this
 webhookURL = "https://discord.com/api/webhooks/......." # Replace with your actual Discord webhook URL
 log_this('Test Header', 'Test message', 'info', webhookURL) # Without footer
 log_this('Test Header', 'Test message', 'info', webhookURL, "Test Footer") # With footer
